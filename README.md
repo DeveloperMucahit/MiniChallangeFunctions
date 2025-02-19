@@ -11,8 +11,8 @@
 
  ### Usage
 
-Run the script `functions.js` in your terminal or browser console:
+Run the script `functionsChallange.js` in your terminal or browser console:
 
 ```sh
-node functions.js
+node functionsChallange.js
 ```
